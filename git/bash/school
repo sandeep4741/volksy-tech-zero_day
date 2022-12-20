@@ -1,3 +1,4 @@
 #!/bin/bash
+echo "school"
 echo "This School is so cool!"
 
